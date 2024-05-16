@@ -23,6 +23,14 @@ input {
   border-radius: 5px;
 }
 
+.errorInput {
+  color: red;
+}
+
+.errorMsg {
+  color: red;
+}
+
 button {
   display: block;
   width: 100%;
