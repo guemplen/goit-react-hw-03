@@ -1,5 +1,5 @@
 import styles from './ContactList.module.css';
-import ContactItem from '../ContactItem/ContactItem';
+import ContactItem from '../Contact/Contact';
 
 const ContactList = ({ contacts, onDelete }) => {
   const handleDelete = id => {
